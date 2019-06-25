@@ -1,0 +1,14 @@
+{
+    "name": "Calculadora",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^5.0.5",
+        "electron-packager": "^14.0.0",
+        "bootstrap": "^4.3.1",
+        "jquery": "^3.4.1"
+    },
+    "scripts": {
+        "electron": "./node_modules/electron/dist/electron",
+        "electron-packager": "./node_modules/electron-packager/bin/electron-packager.js"
+    }
+}
